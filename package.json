@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "@uniswap/permit2-sdk": "^1.2.0",
+    "dotenv": "^16.0.3"
+  }
+}
